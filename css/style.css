@@ -120,7 +120,7 @@ background-color:#BFBFBF;
 #content
 {
 	position:relative;
-	width:80%;
+	width:90%;
 	height:auto;
 	margin:0 auto;
 	overflow:hidden;
@@ -131,7 +131,7 @@ background-color:#BFBFBF;
 	position:relative;
 	padding:5px 0 0 0;
 	float:left;
-	width:10%;
+	width:20%;
 }
 .menu
 {
@@ -174,7 +174,7 @@ background-color:#BFBFBF;
 	position:relative;
 	padding:5px 0 0 0;
 	float:left;
-	width:90%;
+	width:80%;
 }
 
 #contenido-pagina ul
